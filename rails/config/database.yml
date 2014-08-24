@@ -1,0 +1,13 @@
+development:
+  adapter: postgresql
+  database: embergolf_development
+  encoding: utf8
+  template: template0
+  host: localhost
+
+test:
+  adapter: postgresql
+  database: embergolf_test
+  encoding: utf8
+  template: template0
+  host: localhost
